@@ -19,6 +19,6 @@ footer:
 web_design: ""
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
-exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "LensModel", "icon": "camera-retro"}, {"tag": "FocalLength", "icon": "dot-circle-o"}, {"tag": "Aperture", "icon": "dot-circle-o"}, {"tag": "ShutterSpeed", "icon": "clock-o"}, {"tag": "ISO", "icon": "info-circle"}]'
+exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "LensModel", "icon": "binoculars"}, {"tag": "FocalLength", "icon": "ruler-horizontal"}, {"tag": "Aperture", "icon": "camera-rotate"}, {"tag": "ShutterSpeed", "icon": "clock-o"}, {"tag": "ISO", "icon": "sun"}]'
 social_urls:
   github: "https://www.github.com/tapickell"
